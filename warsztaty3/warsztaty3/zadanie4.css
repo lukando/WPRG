@@ -1,0 +1,12 @@
+.box {
+    background-color: lightgrey;
+    line-height: 0.01;
+    padding: 0.01px;
+}
+#trzy {
+    color: red;
+    font-size: small;
+}
+#cztery {
+    color: red;
+}
