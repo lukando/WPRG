@@ -1,0 +1,23 @@
+.row, .row2 {
+    display: flex;
+    margin-bottom: 10px;
+}
+.equal-width, .fixed-percentage, .flexible {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+.equal-width:last-child, .flexible:last-child {
+    margin-right: 0;
+}
+.equal-width {
+    flex: 1;
+}
+.fixed-percentage {
+    width: 40%;
+}
+.flexible {
+    flex: 1;
+}
