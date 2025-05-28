@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+}
+
+div {
+    background-color: aliceblue;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin: auto;
+}
+
+input, button {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+}
